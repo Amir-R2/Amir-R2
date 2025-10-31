@@ -5,6 +5,7 @@
 🌐 I also know the basics of **HTML5** and **CSS3**.  
 🤖 I’m passionate about **AI** and looking forward to building cool projects with it in the future!  
 
+📝 **This repository contains my small Python projects and experiments.** 
 ---
 
 ### 🧠 What I’m Learning  
@@ -13,6 +14,11 @@
 - 🧩 **Data Structures & Algorithms** – to improve my logic and efficiency  
 - 🌍 **HTML5 & CSS3** – to design and style web pages  
 
+---
+### 🎯 Goals
+- 🚀 Improve **problem-solving skills** and algorithmic thinking
+- 🐍 Advance my skills in Python programming
+- 🌐 Learn **advanced web development** (HTML, CSS, JS frameworks)
 ---
 
 ### 🛠️ Languages and Tools
@@ -40,4 +46,4 @@
 ---
 
 📫 **Connect with me:**  
-You can reach out or check my repositories here on GitHub! 😄  
+😄 You can connect with me through my GitHub repositories!  
