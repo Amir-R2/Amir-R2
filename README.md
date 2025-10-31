@@ -33,13 +33,10 @@
 
 ---
 
-<p align="center">
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amir-R2&show_icons=true&theme=radical)](https://github.com/Amir-R2)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-R2&layout=compact&theme=radical)](https://github.com/Amir-R2)
 
-</p>
 ---
 
 📫 **Connect with me:**  
